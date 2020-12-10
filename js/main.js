@@ -8,8 +8,8 @@ var objPeople = [
 		password: "MurrAJ16"
 	},
 	{ // Object @ 1 index
-		username: "blank",
-		password: "blank"
+		username: "Kody",
+		password: "mrnoob3657"
 	},
 	{ // Object @ 2 index
 		username: "blank",
