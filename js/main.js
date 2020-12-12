@@ -12,8 +12,8 @@ var objPeople = [
 		password: "mrnoob3657"
 	},
 	{ // Object @ 2 index
-		username: "blank",
-		password: "blank"
+		username: "ScottyToHoty",
+		password: "Scotty"
 	}
 
 ]
