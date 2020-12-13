@@ -25,7 +25,7 @@ function getInfo() {
 	for(var i = 0; i < objPeople.length; i++) {
 		// check is user input matches username and password of a current index of the objPeople array
 		if(username == objPeople[i].username && password == objPeople[i].password) {
-			window.location.href = 'https://tweakdoor.com/store'
+			window.location.href = 'https://ecstatic-payne-d856fb.netlify.app/'
 			// stop the function if this is found to be true
 			return
 		}
